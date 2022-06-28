@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on my website:https://marodr.github.io/
 - 🌱 I’m currently learning coding in general
 - 👯 I’m looking to collaborate on spatial projects
-- 📫 How to reach me: message me on github
+- 📫 How to reach me: message me through email
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am Mexican American
 <!--
